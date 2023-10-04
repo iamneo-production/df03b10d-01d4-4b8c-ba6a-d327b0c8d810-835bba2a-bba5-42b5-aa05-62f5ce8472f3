@@ -1,0 +1,40 @@
+/* Use the same CSS code as the login page with modifications */
+
+/* Style the login container */
+.signup-container {
+    background:transparent;
+    margin-top: 60px;
+    margin-left: -550px;
+    border-radius: 5px;
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+ 
+  }
+  
+  /* Style the login form header */
+  .signup-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Style the login button */
+  .signup-button {
+    background:  #36750b;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .signup-button:hover {
+    background:#2a5e07;
+  }
+  .line1{
+    text-decoration: none;
+  }
